@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  margin-left: 10px;
+}
